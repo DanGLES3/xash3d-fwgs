@@ -23,12 +23,12 @@ jobs:
 #            targetos: linux
 #            targetarch: aarch64
 
-#          - os: ubuntu-20.04
-#            targetos: android
-#            targetarch: 32
-#          - os: ubuntu-20.04
-#            targetos: android
-#            targetarch: 64
+          - os: ubuntu-20.04
+            targetos: android
+            targetarch: 32
+          - os: ubuntu-20.04
+            targetos: android
+            targetarch: 64
 
 #          - os: ubuntu-20.04
 #            targetos: motomagx
